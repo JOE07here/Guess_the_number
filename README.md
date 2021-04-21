@@ -1,3 +1,3 @@
 # Guess_the_number
 
-A simple guessing number using javascript DOM method.
+A simple guessing number game using javascript DOM method.
