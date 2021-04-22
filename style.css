@@ -117,3 +117,10 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+footer,
+.push {
+  height: 50px;
+  
+  text-align: center;
+}
